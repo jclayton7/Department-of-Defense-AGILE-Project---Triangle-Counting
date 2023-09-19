@@ -1,7 +1,7 @@
 // File: README.txt
 // Author: Judah Clayton
-// Purpose: This file shows the command line commands that 
-// should be used to run generate the graphs and run my 
+// Purpose: This file shows the command line commands that
+// should be used to generate the graphs and run the
 // triangle counting program on them. 
 // graph500-scale24-ef16_adj.tsv can be found at
 // http://graphchallenge.mit.edu/data-sets but must 
