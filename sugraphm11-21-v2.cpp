@@ -2,7 +2,7 @@
 // Author: Michael VanDusen and Judah Clayton
 // Date: 2/22/22
 // Pupose: To test the graph program made by the ORU Research team
-
+ 
 #include <cstdio>
 #include <ctype.h>			// Provides isdigit
 #include <iostream>			// Provides cout
